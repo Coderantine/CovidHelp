@@ -6,6 +6,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using CovidHelp.Data.Entities;
+using Microsoft.AspNetCore.Identity;
+using CovidHelp.Services;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace CovidHelp
 {
@@ -25,8 +28,10 @@ namespace CovidHelp
                 options.UseNpgsql(
                     Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddIdentity<AppUser, IdentityRole<long>>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.AddSingleton<IEmailSender, SendGridEmailService>();
 
             services.AddRazorPages();
         }

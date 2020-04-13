@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace CovidHelp.Areas.Identity.Pages.Account
+namespace CovidHelp.Pages.Account
 {
     [AllowAnonymous]
-    public class ResetPasswordConfirmationModel : PageModel
+    public class LockoutModel : PageModel
     {
         public void OnGet()
         {

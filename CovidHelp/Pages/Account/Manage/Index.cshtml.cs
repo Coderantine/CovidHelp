@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace CovidHelp.Areas.Identity.Pages.Account.Manage
+namespace CovidHelp.Pages.Account.Manage
 {
     public partial class IndexModel : PageModel
     {

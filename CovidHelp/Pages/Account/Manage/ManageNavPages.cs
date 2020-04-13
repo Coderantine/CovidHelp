@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace CovidHelp.Areas.Identity.Pages.Account.Manage
+namespace CovidHelp.Pages.Account.Manage
 {
     public static class ManageNavPages
     {

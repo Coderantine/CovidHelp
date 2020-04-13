@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 
 namespace CovidHelp
@@ -15,6 +16,11 @@ namespace CovidHelp
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    webBuilder.ConfigureAppConfiguration((hostingContext, config) =>
+                    {
+                        config.AddJsonFile("appsettings.json");
+                        config.AddEnvironmentVariables();
+                    });
                 });
     }
 }

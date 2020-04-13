@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using CovidHelp.Notification;
 
-namespace CovidHelp.Areas.Identity.Pages.Account
+namespace CovidHelp.Pages.Account
 {
     [AllowAnonymous]
     public class ForgotPasswordModel : PageModel

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace CovidHelp.Areas.Identity.Pages.Account
+namespace CovidHelp.Pages.Account
 {
     public class AccessDeniedModel : PageModel
     {

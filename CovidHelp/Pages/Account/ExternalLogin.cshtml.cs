@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using CovidHelp.Notification;
 
-namespace CovidHelp.Areas.Identity.Pages.Account
+namespace CovidHelp.Pages.Account
 {
     [AllowAnonymous]
     public class ExternalLoginModel : PageModel

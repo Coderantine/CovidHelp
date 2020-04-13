@@ -1,0 +1,24 @@
+version: 0.1.{build}
+
+image: Visual Studio 2019
+
+configuration: Release
+
+build_script:
+- cmd: dotnet publish -c Release CovidHelp/CovidHelp.csproj
+
+artifacts:
+- path: '\CovidHelp\bin\Release\netcoreapp3.1\publish'
+  name: covid-help
+  type: zip
+  
+deploy:
+- provider: AzureAppServiceZipDeploy
+  website: covidhelpam
+  username: $covidhelpam
+  password:
+    secure: RNhmZYsZb83F6J8DGiGJO/NkBPuuva8jF2gZybd/Jo9Pg4HL5r1MVfVSfW0bs/x7zXrmzZXaCZqqXVfgZ+i2pw==
+  async_deploy: false
+  
+  on:
+    branch: master

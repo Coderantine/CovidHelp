@@ -7,8 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using CovidHelp.Data.Entities;
 using Microsoft.AspNetCore.Identity;
-using CovidHelp.Services;
-using Microsoft.AspNetCore.Identity.UI.Services;
+using CovidHelp.Notification;
 
 namespace CovidHelp
 {
@@ -31,8 +30,7 @@ namespace CovidHelp
             services.AddIdentity<AppUser, IdentityRole<long>>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
-            services.AddSingleton<IEmailSender, SendGridEmailService>();
-
+            services.AddSendGridEmailSender(Configuration);
             services.AddRazorPages();
         }
 

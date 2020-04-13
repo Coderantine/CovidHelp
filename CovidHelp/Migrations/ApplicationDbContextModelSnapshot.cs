@@ -117,7 +117,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 1L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8382), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3016), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ապարան",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -125,7 +125,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 2L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8795), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3447), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արագած",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -133,7 +133,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 3L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8824), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3465), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արուճ",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -141,7 +141,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 4L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8827), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3467), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Աշտարակ",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -149,7 +149,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 5L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8828), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3468), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Կոշ",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -157,7 +157,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 6L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8831), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3469), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Օշական",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -165,7 +165,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 7L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8832), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3471), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Թալին",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -173,7 +173,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 8L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8834), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3472), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ուջան",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -181,7 +181,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 9L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8836), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3473), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արարատ",
                             ProvinceId = 2L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -189,7 +189,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 10L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8837), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3475), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արտաշատ",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -197,7 +197,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 11L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8839), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3476), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Այնթապ",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -205,7 +205,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 12L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8841), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3477), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գեղանիստ",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -213,7 +213,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 13L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8843), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3479), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մասիս",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -221,7 +221,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 14L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8845), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3480), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Նոր Խարբերդ",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -229,7 +229,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 15L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8847), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3481), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Վեդի",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -237,7 +237,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 16L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8849), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3483), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արմավիր",
                             ProvinceId = 3L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -245,7 +245,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 17L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8851), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3484), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Էջմիածին",
                             ProvinceId = 4L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -253,7 +253,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 18L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8853), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3485), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մեծամոր",
                             ProvinceId = 4L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -261,7 +261,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 19L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8854), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3487), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Հադրութ",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -269,7 +269,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 20L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8857), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3488), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Լաչին",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -277,7 +277,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 21L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8858), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3489), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մարտակերտ",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -285,7 +285,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 22L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8862), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3490), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մարտունի",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -293,7 +293,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 23L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8863), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3492), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Շուշի",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -301,7 +301,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 24L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8865), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3493), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ստեփանակերտ",
                             ProvinceId = 5L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -309,7 +309,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 25L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8867), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3494), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ճամբարակ",
                             ProvinceId = 6L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -317,7 +317,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 26L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8868), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3496), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գավառ",
                             ProvinceId = 6L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -325,7 +325,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 27L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8870), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3497), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մարտունի",
                             ProvinceId = 6L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -333,7 +333,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 28L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8872), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3498), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Սևան",
                             ProvinceId = 6L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -341,7 +341,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 29L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8873), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3500), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Վարդենիս",
                             ProvinceId = 6L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -349,7 +349,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 30L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8875), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3501), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Աբովյան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -357,7 +357,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 31L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8876), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3502), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Աղվերան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -365,7 +365,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 32L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8878), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3503), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արգել",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -373,7 +373,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 33L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8879), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3505), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Առինջ",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -381,7 +381,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 34L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8881), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3506), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արզնի",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -389,7 +389,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 35L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8882), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3507), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Բջնի",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -397,7 +397,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 36L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8884), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3509), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Բյուրեղավան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -405,7 +405,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 37L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8885), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3510), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Չարենցավան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -413,7 +413,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 38L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8887), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3512), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ձորաղբյուր",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -421,7 +421,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 39L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8888), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3513), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գառնի",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -429,7 +429,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 40L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8890), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3514), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գողթ",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -437,7 +437,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 41L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8891), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3515), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Հրազդան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -445,7 +445,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 42L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8893), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3517), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ջրվեժ",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -453,7 +453,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 43L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8895), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3519), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Քանաքեռավան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -461,7 +461,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 44L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8897), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3520), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Քասախ",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -469,7 +469,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 45L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8898), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3521), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Նոր Հաճըն",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -477,7 +477,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 46L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8900), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3523), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Նուռնուս",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -485,7 +485,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 47L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8901), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3524), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Պռոշյան",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -493,7 +493,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 48L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8918), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3525), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Պտղնի",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -501,7 +501,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 49L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8920), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3526), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ծաղկաձոր",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -509,7 +509,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 50L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8921), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3528), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Եղվարդ",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -517,7 +517,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 51L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8964), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3529), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Զովունի",
                             ProvinceId = 7L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -525,7 +525,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 52L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8966), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3530), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ալավերդի",
                             ProvinceId = 8L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -533,7 +533,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 53L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8967), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3531), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Սպիտակ",
                             ProvinceId = 8L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -541,7 +541,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 54L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8969), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3532), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ստեփանավան",
                             ProvinceId = 8L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -549,7 +549,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 55L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8970), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3534), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Տաշիր",
                             ProvinceId = 8L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -557,7 +557,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 56L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8972), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3535), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Վանաձոր",
                             ProvinceId = 8L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -565,7 +565,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 57L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8973), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3536), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արթիկ",
                             ProvinceId = 9L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -573,7 +573,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 58L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8975), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3537), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գյումրի",
                             ProvinceId = 9L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -581,7 +581,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 59L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8976), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3538), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մարալիկ",
                             ProvinceId = 9L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -589,7 +589,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 60L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8978), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3539), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գորիս",
                             ProvinceId = 10L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -597,7 +597,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 61L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8979), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3541), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Քաջարան",
                             ProvinceId = 10L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -605,7 +605,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 62L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8982), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3542), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Կապան",
                             ProvinceId = 10L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -613,7 +613,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 63L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8984), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3543), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Մեղրի",
                             ProvinceId = 10L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -621,7 +621,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 64L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8985), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3545), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Սիսիան",
                             ProvinceId = 10L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -629,7 +629,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 65L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8987), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3546), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Բերդ",
                             ProvinceId = 11L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -637,7 +637,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 66L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8989), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3547), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Դիլիջան",
                             ProvinceId = 11L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -645,7 +645,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 67L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8991), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3548), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Իջևան",
                             ProvinceId = 11L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -653,7 +653,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 68L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8993), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3550), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Նոյեմբերյան",
                             ProvinceId = 11L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -661,7 +661,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 69L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8995), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3551), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Ջերմուկ",
                             ProvinceId = 12L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -669,7 +669,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 70L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8997), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3552), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Վայք",
                             ProvinceId = 12L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -677,7 +677,7 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 71L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 258, DateTimeKind.Unspecified).AddTicks(8999), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 711, DateTimeKind.Unspecified).AddTicks(3553), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Եղեգնաձոր",
                             ProvinceId = 12L,
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
@@ -801,84 +801,84 @@ namespace CovidHelp.Migrations
                         new
                         {
                             Id = 1L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(6416), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(1265), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Երևան",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 2L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7324), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2433), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արագածոտն",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 3L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7342), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2468), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արարատ",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 4L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7344), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2471), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արմավիր",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 5L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7345), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2472), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Արցախ",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 6L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7347), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2473), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Գեղարքունիք",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 7L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7348), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2475), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Կոտայք",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 8L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7349), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2476), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Լոռի",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 9L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7351), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2477), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Շիրակ",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 10L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7352), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2479), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Սյունիք",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 11L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7353), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2480), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Տավուշ",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         },
                         new
                         {
                             Id = 12L,
-                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 19, 19, 30, 257, DateTimeKind.Unspecified).AddTicks(7355), new TimeSpan(0, 0, 0, 0, 0)),
+                            CreatedDate = new DateTimeOffset(new DateTime(2020, 4, 13, 22, 12, 13, 710, DateTimeKind.Unspecified).AddTicks(2481), new TimeSpan(0, 0, 0, 0, 0)),
                             Name = "Վայոց Ձոր",
                             UpdatedDate = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
                         });
@@ -985,12 +985,10 @@ namespace CovidHelp.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<long>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasColumnType("character varying(128)")
-                        .HasMaxLength(128);
+                        .HasColumnType("text");
 
                     b.Property<string>("ProviderKey")
-                        .HasColumnType("character varying(128)")
-                        .HasMaxLength(128);
+                        .HasColumnType("text");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("text");
@@ -1026,12 +1024,10 @@ namespace CovidHelp.Migrations
                         .HasColumnType("bigint");
 
                     b.Property<string>("LoginProvider")
-                        .HasColumnType("character varying(128)")
-                        .HasMaxLength(128);
+                        .HasColumnType("text");
 
                     b.Property<string>("Name")
-                        .HasColumnType("character varying(128)")
-                        .HasMaxLength(128);
+                        .HasColumnType("text");
 
                     b.Property<string>("Value")
                         .HasColumnType("text");

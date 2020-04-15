@@ -7,6 +7,9 @@ configuration: Release
 build_script:
 - cmd: dotnet publish -c Release CovidHelp/CovidHelp.csproj
 
+cache:
+- CovidHelp\wwwroot\lib
+
 artifacts:
 - path: '\CovidHelp\bin\Release\netcoreapp3.1\publish'
   name: covid-help
